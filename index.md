@@ -1,91 +1,102 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Walter Bolitto - CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Walter Rubens Bolitto Carvalho
+Profissional criativo, engenhoso e automotivado, com fortes habilidades interpessoais e organizacionais. Hábil no desenvolvimento e manutenção de relacionamento excelente com os clientes. Experiente em visualização de dados e elaboração de relatórios. Desenvolvedor de tecnologias educacionais para ensino de ciências na educação formal e não-formal.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
+| <a href="https://br.linkedin.com/in/walter-bolitto">Linkedin</a>
 </div>
 
 
-## Currently
+### Experiência
 
-Standing on the shoulders of giants
+Desenvolvimento FullStack (Javascript, Git, React, Node, Redux)
 
-### Specialized in
+Business Intelligence (Tableau, Power BI)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Metodologias de engenharia de software (Scrum, Kanban, UML)
 
+Gamedev (Unity, Twine, Construct, Godot)
 
-### Research interests
+Análise estatística (R, Matlab)
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Pacote Office (Access, Excel, Word, Powerpoint, Sharepoint)
 
 
+## Experiência Profissional
 
-## Awards
+`2017 - `
+__Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.__
 
-`2012`
-President, *Royal Society*, London, UK
+Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel (com os suplementos Power Query e Power Pivot) na Supervisão de Planejamento de Edificações.
 
-Associate, *French Academy of Science*, Paris, France
+`2017`
+__Estágio em Engenharia Química - Assistente de laboratório, ETESP | Escola Técnica Estadual de São Paulo__
 
+Análise de matéria-prima, acompanhamento de testes, elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos, acompanhamento das aulas e auxílio aos alunos nos trabalhos de conclusão de curso.
 
+`2017`
+__Educador e oficineiro, ACTANTES | Ação Direta Pela Liberdade__
 
-## Publications
+Projetos:
+1)Segurança de Sites de Defesa de Direitos (projeto em parceria com a Open Society Foundation) – Projeto que teve como objetivo reduzir a vulnerabilidade de sites de coletivos, organizações e mídias independentes focados na defesa de direitos por meio de oficinas presenciais e diagnósticos digitais. 
+2)Install Fest (projeto em parceria com a FliSol) – Eventos realizados mensalmente no espaço da Actantes para divulgação da filosofia do software livre, instalação de distribuições Linux e outros programas livres com enfoque na autonomia e segurança do usuário.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Educação
 
-### Journals
+`2021-`
+__Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC)
+Projeto de pesquisa voltado à metodologia de desenvolvimento de jogos na educação e tecnologia assistiva
 
-`1669`
-Lectiones opticæ.
+`2019 - 2020`
+__Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
 
-etc. etc. etc.
+Habilitação em Produção e uso de Tecnologias para Educação.
+Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular
 
-### Patents
+`2014 - 2018`
+__Graduação em Engenharia Química, UNG | Universidade Guarulhos__
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Atuação no Núcleo de Sustentabilidade em Resíduos, nos seguintes projetos:
+Desenvolvimento de pesquisa científica na área de mapeamento colaborativo
+Apresentações de palestras e treinamentos de gestão de resíduos 
 
 
+## Premiações
+
+`2018`
+Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa Científica. Mapeamento Socioambiental Gru: cartografia das iniciativas sustentáveis no município de Guarulhos
+
+
+## Formação complementar
+
+`2021`
+__The Complete Node.js Developer Course__. Udemy. 
+
+`2021`
+__Node with React: Fullstack Web Development__. Udemy.
+
+`2021`
+__Modern React with Redux__. Udemy.
+
+
+## Voluntariado
+
+`2020`
+__Cursinho Comunitário A-Sol__
+Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
+
+### Idiomas
+
+Português nativo
+Inglês fluente
+Mandarim básico
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: jun 2021 -->
