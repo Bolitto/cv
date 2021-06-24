@@ -42,7 +42,9 @@ Análise de matéria-prima, acompanhamento de testes, elaboração do inventári
 __Educador e oficineiro, ACTANTES | Ação Direta Pela Liberdade__
 
 Projetos:
+
 1)Segurança de Sites de Defesa de Direitos (projeto em parceria com a Open Society Foundation) – Projeto que teve como objetivo reduzir a vulnerabilidade de sites de coletivos, organizações e mídias independentes focados na defesa de direitos por meio de oficinas presenciais e diagnósticos digitais. 
+
 2)Install Fest (projeto em parceria com a FliSol) – Eventos realizados mensalmente no espaço da Actantes para divulgação da filosofia do software livre, instalação de distribuições Linux e outros programas livres com enfoque na autonomia e segurança do usuário.
 
 ## Educação
@@ -89,12 +91,15 @@ __Modern React with Redux__. Udemy.
 
 `2020`
 __Cursinho Comunitário A-Sol__
+
 Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
 
 ### Idiomas
 
 Português nativo
+
 Inglês fluente
+
 Mandarim básico
 
 <!-- ### Footer
