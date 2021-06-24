@@ -105,13 +105,17 @@ __Modern React with Redux__. Udemy.
 
 `2020`
 __Cursinho Comunitário A-Sol__
+
 Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
+
 Professor de Química
 
 ### Idiomas
 
 Português nativo
+
 Inglês fluente
+
 Mandarim básico
 
 ### Experiência
