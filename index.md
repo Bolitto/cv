@@ -52,31 +52,31 @@ Projetos:
 `2021-`
 __Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC__
 
-Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC)
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC).
 
-Projeto de pesquisa voltado à metodologia de desenvolvimento de jogos na educação e tecnologia assistiva
+Projeto de pesquisa voltado à metodologia de desenvolvimento de jogos na educação e tecnologia assistiva.
 
 `2019 - 2020`
 __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
 
 Habilitação em Produção e uso de Tecnologias para Educação.
 
-Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular
+Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
 
 `2014 - 2018`
 __Graduação em Engenharia Química, UNG | Universidade Guarulhos__
 
 Atuação no Núcleo de Sustentabilidade em Resíduos, nos seguintes projetos:
 
-Desenvolvimento de pesquisa científica na área de mapeamento colaborativo
+Desenvolvimento de pesquisa científica na área de mapeamento colaborativo.
 
-Apresentações de palestras e treinamentos de gestão de resíduos 
+Apresentações de palestras e treinamentos de gestão de resíduos.
 
 
 ## Premiações
 
 `2018`
-Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa Científica. Mapeamento Socioambiental Gru: cartografia das iniciativas sustentáveis no município de Guarulhos
+Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa Científica. Mapeamento Socioambiental Gru: cartografia das iniciativas sustentáveis no município de Guarulhos.
 
 
 ## Formação complementar
