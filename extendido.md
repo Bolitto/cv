@@ -125,7 +125,7 @@ Gamedev (Unity, Twine, Construct, Godot)
 
 Análise estatística (R, Matlab)
 
-Metodologias de engenharia de software (Scrum, Kanban, UML)
+Engenharia de software (Scrum, Kanban, UML)
 
 Pacote Office (Access, Excel, Word, Powerpoint, Sharepoint)
 
