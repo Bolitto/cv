@@ -25,7 +25,9 @@ Análise de matéria-prima, acompanhamento de testes, elaboração do inventári
 __Educador e oficineiro, ACTANTES | Ação Direta Pela Liberdade__
 
 Projetos:
+
 1)Segurança de Sites de Defesa de Direitos (projeto em parceria com a Open Society Foundation) – Projeto que teve como objetivo reduzir a vulnerabilidade de sites de coletivos, organizações e mídias independentes focados na defesa de direitos por meio de oficinas presenciais e diagnósticos digitais. 
+
 2)Install Fest (projeto em parceria com a FliSol) – Eventos realizados mensalmente no espaço da Actantes para divulgação da filosofia do software livre, instalação de distribuições Linux e outros programas livres com enfoque na autonomia e segurança do usuário.
 
 ## Educação
@@ -34,36 +36,46 @@ Projetos:
 __Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC__
 
 Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC)
+
 Projeto de pesquisa voltado à metodologia de desenvolvimento de jogos na educação e tecnologia assistiva
 
 `2019 - 2020`
 __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
 
 Habilitação em Produção e uso de Tecnologias para Educação.
+
 Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular
 
 `2014 - 2018`
 __Graduação em Engenharia Química, UNG | Universidade Guarulhos__
 
 Atuação no Núcleo de Sustentabilidade em Resíduos, nos seguintes projetos:
+
 Desenvolvimento de pesquisa científica na área de mapeamento colaborativo
+
 Apresentações de palestras e treinamentos de gestão de resíduos 
 
 ## Publicações
 
 `2019`
 Software Livre Twine: ensino de programação web por meio da criação de jogos educacionais
+
 Walter Rubens Bolitto Carvalho, Carla L. Rodriguez, Denise H. Goya, Mirtha L.F. Venero, Rafaela V. Rocha
+
 VIII Congresso Brasileiro de Informática na Educação (CBIE 2019)
 
 `2018`
 Análise de dados espaciais das deposições de resíduos sólidos da construção civil no município de Guarulhos
+
 Walter Rubens Bolitto Carvalho; Natália Góes dos Santos Barom; Silvania Maria Netto.
+
 FÓRUM AMBIENTAL DA ALTA PAULISTA, v. 14, p. 2, 2018.
 
 `2018`
 Desigualdade Espacial do acesso aos pontos de reciclagem no município de Guarulhos, São Paulo
+
 Walter Rubens Bolitto Carvalho; Bruno Ribeiro da Silva; Silvia Letícia dos Santos Silva; Natália Góes dos Santos Barom; Silvania Maria Netto
+
 1º ENCONTRO REGIONAL SUDESTE DA ANPPAS, 2018
 
 ## Organização de eventos e workshop
