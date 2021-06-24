@@ -17,7 +17,7 @@ Desenvolvimento FullStack (Javascript, Git, React, Node, Redux)
 
 Business Intelligence (Tableau, Power BI)
 
-Metodologias de engenharia de software (Scrum, Kanban, UML)
+Engenharia de software (Scrum, Kanban, UML)
 
 Gamedev (Unity, Twine, Construct, Godot)
 
