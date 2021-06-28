@@ -54,7 +54,7 @@ __Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC__
 
 Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC).
 
-Projeto de pesquisa voltado à metodologia de desenvolvimento de jogos na educação e tecnologia assistiva.
+Projeto de pesquisa voltado à metodologias de design de jogos na educação, interação humano-computador e tecnologias assistivas.
 
 `2019 - 2020`
 __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
