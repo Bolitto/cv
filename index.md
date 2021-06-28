@@ -3,7 +3,7 @@ layout: cv
 title: Walter Bolitto - CV
 ---
 # Walter Rubens Bolitto Carvalho
-Profissional criativo, engenhoso e automotivado, com fortes habilidades interpessoais e organizacionais. Hábil no desenvolvimento e manutenção de relacionamento excelente com os clientes. Experiente em visualização de dados e elaboração de relatórios. Desenvolvedor de tecnologias educacionais para ensino de ciências na educação formal e não-formal.
+Profissional criativo, engenhoso e automotivado, com fortes habilidades interpessoais e organizacionais. Hábil no desenvolvimento e manutenção de relacionamento excelente com os clientes. Experiente em visualização de dados, elaboração de relatórios, metodologias de design e interação humano-computador. Desenvolvedor de tecnologias educacionais para ensino de ciências na educação formal e não-formal.
 
 <div id="webaddress">
 <a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
@@ -93,10 +93,14 @@ __Modern React with Redux__. Udemy.
 
 ## Voluntariado
 
-`2020`
+`2020-`
 __Cursinho Comunitário A-Sol__
 
-Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
+Designer instrucional do Ambiente Virtual de Aprendizagem (AVA).
+
+Educador em Química.
+
+Coordenação da revista digital.
 
 ### Idiomas
 
