@@ -95,7 +95,7 @@ Instalação e configuração de Debian na Installfest da Cryptorave 2017. Quart
 `2018`
 Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa Científica. Mapeamento Socioambiental Gru: cartografia das iniciativas sustentáveis no município de Guarulhos.
 
-### Habilidades
+## Habilidades
 
 Gamedev (Unity, Twine, Construct, Godot)
 
@@ -126,7 +126,7 @@ Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
 
 Professor de Química.
 
-### Idiomas
+## Idiomas
 
 Português nativo
 
