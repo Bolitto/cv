@@ -95,6 +95,17 @@ Instalação e configuração de Debian na Installfest da Cryptorave 2017. Quart
 `2018`
 Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa Científica. Mapeamento Socioambiental Gru: cartografia das iniciativas sustentáveis no município de Guarulhos.
 
+### Habilidades
+
+Gamedev (Unity, Twine, Construct, Godot)
+
+Ferramentas de design (Blender, Aseprite, Krita)
+
+Desenvolvimento FullStack (Javascript, Git, React, Node, Redux)
+
+Engenharia de software (Scrum, Kanban, UML)
+
+
 ## Formação complementar
 
 `2021`
@@ -105,7 +116,6 @@ __Jogos Educativos para Ciências Naturais no Ensino Médio__. Instituto Federal
 
 `2019`
 __Desenho de Cursos: Introdução ao Modelo ADDIE__. Escola Nacional de Administração Pública, ENAP. 
-
 
 ## Voluntariado
 
@@ -123,16 +133,6 @@ Português nativo
 Inglês fluente
 
 Mandarim básico
-
-### Habilidades
-
-Gamedev (Unity, Twine, Construct, Godot)
-
-Ferramentas de design (Blender, Aseprite, Krita)
-
-Desenvolvimento FullStack (Javascript, Git, React, Node, Redux)
-
-Engenharia de software (Scrum, Kanban, UML)
 
 <!-- ### Footer
 
