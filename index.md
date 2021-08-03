@@ -3,7 +3,7 @@ layout: cv
 title: Walter Bolitto - CV
 ---
 # Walter Rubens Bolitto Carvalho
-Profissional criativo, engenhoso e automotivado, com fortes habilidades interpessoais e organizacionais. Hábil no desenvolvimento e manutenção de relacionamento excelente com os clientes. Experiente em visualização de dados, elaboração de relatórios, metodologias de design e interação humano-computador. Desenvolvedor de tecnologias educacionais para ensino de ciências na educação formal e não-formal.
+Profissional criativo, engenhoso e automotivado, com fortes habilidades interpessoais e organizacionais. Hábil no desenvolvimento e manutenção de relacionamento excelente com os clientes. Experiente em visualização de dados, elaboração de relatórios, metodologias de design e interação humano-computador. 
 
 <div id="webaddress">
 <a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
@@ -37,15 +37,6 @@ Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel (
 __Estágio em Engenharia Química - Assistente de laboratório, ETESP | Escola Técnica Estadual de São Paulo__
 
 Análise de matéria-prima, acompanhamento de testes, elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos, acompanhamento das aulas e auxílio aos alunos nos trabalhos de conclusão de curso.
-
-`2017`
-__Educador e oficineiro, ACTANTES | Ação Direta Pela Liberdade__
-
-Projetos:
-
-1)Segurança de Sites de Defesa de Direitos (projeto em parceria com a Open Society Foundation) – Projeto que teve como objetivo reduzir a vulnerabilidade de sites de coletivos, organizações e mídias independentes focados na defesa de direitos por meio de oficinas presenciais e diagnósticos digitais. 
-
-2)Install Fest (projeto em parceria com a FliSol) – Eventos realizados mensalmente no espaço da Actantes para divulgação da filosofia do software livre, instalação de distribuições Linux e outros programas livres com enfoque na autonomia e segurança do usuário.
 
 ## Educação
 
@@ -91,25 +82,13 @@ __Node with React: Fullstack Web Development__. Udemy.
 __Modern React with Redux__. Udemy.
 
 
-## Voluntariado
-
-`2020-`
-__Cursinho Comunitário A-Sol__
-
-Designer instrucional do Ambiente Virtual de Aprendizagem (AVA).
-
-Educador em Química.
-
-Coordenação da revista digital.
-
 ### Idiomas
 
 Português nativo
 
 Inglês fluente
 
-Mandarim básico
 
 <!-- ### Footer
 
-Last updated: jun 2021 -->
+Last updated: jun 2021 --> 
