@@ -17,11 +17,6 @@ __Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos
 Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel (com os suplementos Power Query e Power Pivot) na Supervisão de Planejamento de Edificações.
 
 `2017`
-__Estágio em Engenharia Química - Assistente de laboratório, ETESP | Escola Técnica Estadual de São Paulo__
-
-Análise de matéria-prima, acompanhamento de testes, elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos, acompanhamento das aulas e auxílio aos alunos nos trabalhos de conclusão de curso.
-
-`2017`
 __Educador e oficineiro, ACTANTES | Ação Direta Pela Liberdade__
 
 Projetos:
@@ -61,6 +56,9 @@ Desenvolvimento de pesquisa científica na área de mapeamento colaborativo.
 Apresentações de palestras e treinamentos de gestão de resíduos.
 
 ## Projetos
+
+`2020`
+Momentum. Jogo educacional para aprendizagem de conceitos de mecânica clássica.
 
 `2020`
 Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol.
@@ -119,10 +117,10 @@ __Desenho de Cursos: Introdução ao Modelo ADDIE__. Escola Nacional de Administ
 
 ## Voluntariado
 
-`2020`
+`2020-`
 __Cursinho Comunitário A-Sol__
 
-Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
+Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
 
 Professor de Química.
 
@@ -132,8 +130,6 @@ Português nativo
 
 Inglês fluente
 
-Mandarim básico
-
 <!-- ### Footer
 
-Last updated: jul 2021 -->
+Last updated: ago 2021 -->
