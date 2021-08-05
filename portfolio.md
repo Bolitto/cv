@@ -82,12 +82,6 @@ CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por me
 `2019`
 Criação de games e narrativas interativas com o Twine. Curso de extensão dado na Universidade Federal do ABC.
 
-`2018`
-Instalação e configuração de Debian na Installfest da Cryptorave 2018. Quinta edição do evento anual de segurança e privacidade.
-
-`2017`
-Instalação e configuração de Debian na Installfest da Cryptorave 2017. Quarta edição do evento anual de segurança e privacidade.
-
 ## Premiações
 
 `2018`
