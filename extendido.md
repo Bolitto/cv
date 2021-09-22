@@ -5,8 +5,8 @@ title: Walter Bolitto - CV
 # Walter Rubens Bolitto Carvalho
 
 <div id="webaddress">
-<a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
-| <a href="https://br.linkedin.com/in/walter-bolitto">Linkedin</a>
+<a href="https://bolitto.github.io/">Portfólio</a>
+| <a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
 </div>
 
 ## Experiência Profissional
@@ -15,11 +15,6 @@ title: Walter Bolitto - CV
 __Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.__
 
 Criação de Planilhas, Gráficos, Relatórios e Dashboards em Tableau e Excel (com os suplementos Power Query e Power Pivot) na Supervisão de Planejamento de Edificações.
-
-`2017`
-__Estágio em Engenharia Química - Assistente de laboratório, ETESP | Escola Técnica Estadual de São Paulo__
-
-Análise de matéria-prima, acompanhamento de testes, elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos, acompanhamento das aulas e auxílio aos alunos nos trabalhos de conclusão de curso.
 
 `2017`
 __Educador e oficineiro, ACTANTES | Ação Direta Pela Liberdade__
@@ -55,30 +50,32 @@ Desenvolvimento de pesquisa científica na área de mapeamento colaborativo.
 
 Apresentações de palestras e treinamentos de gestão de resíduos.
 
+## Projetos
+
+`2020`
+Momentum. Jogo educacional para aprendizagem de conceitos de mecânica clássica.
+
+`2020`
+Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol.
+
+`2019`
+Pseudociência. Jogo sério na temática de critérios de demarcação (História e Filosofia da Ciência).
+
+`2019`
+Casa Invisível. Jogo imersivo desenvolvido na Global Game Jam 2019.
+
+`2018`
+Mapeamento Socioambiental Gru. Mapeamento colaborativo dos pontos de entrega de materiais recicláveis de Guarulhos.
+
 ## Publicações
 
 `2019`
 CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In: Anais dos Workshops do Congresso Brasileiro de Informática na Educação. 2019. p. 258.
 
-`2018`
-CARVALHO, Walter Rubens Bolitto; DOS SANTOS BAROM, Natália Góes; NETTO, Silvania Maria. Análise de dados espaciais das deposições de resíduos sólidos da construção civil no município de Guarulhos, São Paulo. Periódico Eletrônico Fórum Ambiental da Alta Paulista, v. 14, n. 2, 2018.
-
 ## Organização de eventos e workshop
 
 `2019`
 Criação de games e narrativas interativas com o Twine. Curso de extensão dado na Universidade Federal do ABC.
-
-`2018`
-Instalação e configuração de Debian na Installfest da Cryptorave 2018. Quinta edição do evento anual de segurança e privacidade.
-
-`2017`
-Instalação e configuração de Debian na Installfest da Cryptorave 2017. Quarta edição do evento anual de segurança e privacidade.
-
-## Desenvolvimento de material didático
-
-`2019`
-Pseudociência. Jogo sério de tabuleiro dentro da temática de critérios de demarcação (História e Filosofia da Ciência).
-
 
 ## Premiações
 
@@ -88,47 +85,27 @@ Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa C
 
 ## Formação complementar
 
-`2021`
-__The Complete Node.js Developer Course__. Udemy. 
+`2019`
+__Jogos Educativos para Ciências Naturais no Ensino Médio__. Instituto Federal de São Paulo, IFSP. 
 
-`2021`
-__Node with React: Fullstack Web Development__. Udemy.
-
-`2021`
-__Modern React with Redux__. Udemy.
-
+`2019`
+__Desenho de Cursos: Introdução ao Modelo ADDIE__. Escola Nacional de Administração Pública, ENAP. 
 
 ## Voluntariado
 
-`2020`
+`2020-`
 __Cursinho Comunitário A-Sol__
-
-Coordenação do Ambiente Virtual de Aprendizagem (AVA) e da revista digital.
 
 Professor de Química.
 
-### Idiomas
+Gerenciamento do Ambiente Virtual de Aprendizagem (AVA).
+
+## Idiomas
 
 Português nativo
 
 Inglês fluente
 
-Mandarim básico
-
-### Experiência
-
-Desenvolvimento FullStack (Javascript, Git, React, Node, Redux)
-
-Business Intelligence (Tableau, Power BI)
-
-Gamedev (Unity, Twine, Construct, Godot)
-
-Análise estatística (R, Matlab)
-
-Engenharia de software (Scrum, Kanban, UML)
-
-Pacote Office (Access, Excel, Word, Powerpoint, Sharepoint)
-
 <!-- ### Footer
 
-Last updated: jun 2021 -->
+Last updated: ago 2021 -->
