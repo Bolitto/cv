@@ -25,19 +25,16 @@ Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de cur
 `2020-`
 __Cursinho Comunitário A-Sol__
 
-Professor de Química.(2020-)
+Professor de Química (2020-)
 
 Professor de Matemática (2021)
 
-Gerenciamento do Ambiente Virtual de Aprendizagem (AVA). (2020-2021)
+Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
 
 ## Educação
 
 `2020-`
-__Licenciatura em Física, IFSP | Instituto Federal de São Paulo__
-
-`2020-2021`
-__Complementação Pedagógica em Química, Universidade Cruzeiro do Sul__
+__Licenciatura em Física, IFSP | Instituto Federal de São Paulo (Em andamento)__
 
 `2019 - 2020`
 __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
@@ -45,6 +42,9 @@ __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade 
 Habilitação em Produção e uso de Tecnologias para Educação.
 
 Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
+
+`2020 - 2021`
+__Complementação Pedagógica em Química, Universidade Cruzeiro do Sul__
 
 `2014 - 2018`
 __Graduação em Engenharia Química, UNG | Universidade Guarulhos__
