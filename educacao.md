@@ -25,7 +25,7 @@ Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de cur
 `2020-`
 __Cursinho Comunitário A-Sol__
 
-Professor de Química (2020-)
+Professor de Química (2020- )
 
 Professor de Matemática (2021)
 
