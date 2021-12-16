@@ -44,7 +44,7 @@ Habilitação em Produção e uso de Tecnologias para Educação.
 Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
 
 `2020 - 2021`
-__Complementação Pedagógica em Química, Universidade Cruzeiro do Sul__
+__Complementação Pedagógica em Química, UNICSUL | Universidade Cruzeiro do Sul__
 
 `2014 - 2018`
 __Graduação em Engenharia Química, UNG | Universidade Guarulhos__
