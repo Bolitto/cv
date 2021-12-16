@@ -5,8 +5,7 @@ title: Walter Bolitto - CV
 # Walter Rubens Bolitto Carvalho
 
 <div id="webaddress">
-<a href="https://bolitto.github.io/">Portfólio</a>
-| <a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
+<a href="walter.carvalho@aluno.ufabc.edu.br">bolitto.walter@gmail.com</a>
 </div>
 
 ## Experiência Profissional
