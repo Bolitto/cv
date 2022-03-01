@@ -40,7 +40,7 @@ Apresentações de palestras e treinamentos de gestão de resíduos.
 ## Projetos
 
 `2020`
-Momentum. Jogo educacional para aprendizagem de conceitos de mecânica clássica.
+Momentum. Jogo educacional para aprendizagem de conteúdos de mecânica clássica.
 
 `2020`
 Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol.
@@ -80,7 +80,7 @@ Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa C
 
 ## Publicações
 
-Artigos publicados em congresso
+__Artigos publicados em congresso_
 
 CARVALHO, Walter R. B.; RODRIGUEZ, Carla L.; ROCHA, Rafaela V. Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In: Anais do XXXII Simpósio Brasileiro de Informática na Educação. SBC, 2021. p. 371-380.
 
