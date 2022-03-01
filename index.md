@@ -80,7 +80,8 @@ Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa C
 
 ## Publicações
 
-`Artigos em congresso científico`
+Artigos publicados em congresso
+
 CARVALHO, Walter R. B.; RODRIGUEZ, Carla L.; ROCHA, Rafaela V. Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In: Anais do XXXII Simpósio Brasileiro de Informática na Educação. SBC, 2021. p. 371-380.
 
 CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In: Anais dos Workshops do Congresso Brasileiro de Informática na Educação. 2019. p. 258-267.
