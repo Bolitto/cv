@@ -26,7 +26,7 @@ Habilitação em Produção e uso de Tecnologias para Educação.
 Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
 
 `2020 - 2021`
-__Formação Pedagógica em Química, UFSCar | Universidade Federal de São Carlos__
+__Formação Pedagógica em Química, Universidade Cruzeiro do Sul__
 
 `2014 - 2018`
 __Graduação em Engenharia Química, UNG | Universidade Guarulhos__
@@ -80,7 +80,7 @@ Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa C
 
 ## Publicações
 
-__Artigos publicados em congresso_
+_Artigos publicados em congresso_
 
 CARVALHO, Walter R. B.; RODRIGUEZ, Carla L.; ROCHA, Rafaela V. Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In: Anais do XXXII Simpósio Brasileiro de Informática na Educação. SBC, 2021. p. 371-380.
 
