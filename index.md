@@ -11,23 +11,6 @@ title: Walter Bolitto - CV
 
 ## Educação
 
-`2021-`
-__Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC__
-
-Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC).
-
-Projeto de pesquisa voltado à metodologias de design de jogos na educação, interação humano-computador e tecnologias assistivas.
-
-`2019 - 2020`
-__Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
-
-Habilitação em Produção e uso de Tecnologias para Educação.
-
-Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
-
-`2020 - 2021`
-__Formação Pedagógica em Química, Universidade Cruzeiro do Sul__
-
 `2014 - 2018`
 __Graduação em Engenharia Química, UNG | Universidade Guarulhos__
 
@@ -36,6 +19,24 @@ Atuação no Núcleo de Sustentabilidade em Resíduos, nos seguintes projetos:
 Desenvolvimento de pesquisa científica na área de mapeamento colaborativo.
 
 Apresentações de palestras e treinamentos de gestão de resíduos.
+
+`2020 - 2021`
+__Formação Pedagógica em Química, Universidade Cruzeiro do Sul__
+
+
+`2019 - 2020`
+__Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
+
+Habilitação em Produção e uso de Tecnologias para Educação.
+
+Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
+
+`2021-`
+__Mestrado em Ciência da Computação, UFABC | Universidade Federal do ABC__
+
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC).
+
+Projeto de pesquisa voltado à metodologias de design de jogos na educação, interação humano-computador e tecnologias assistivas.
 
 ## Projetos
 
