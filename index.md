@@ -40,7 +40,7 @@ Projeto de pesquisa voltado à metodologias de design de jogos na educação, in
 
 ## Projetos
 
-`2020`
+`2021`
 Momentum. Jogo educacional para aprendizagem de conteúdos de mecânica clássica.
 
 `2020`
@@ -83,9 +83,17 @@ Selo Ambiental de Guarulhos, São Paulo. Segundo lugar na categoria Iniciativa C
 
 _Artigos publicados em congresso_
 
-CARVALHO, Walter R. B.; RODRIGUEZ, Carla L.; ROCHA, Rafaela V. Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In: Anais do XXXII Simpósio Brasileiro de Informática na Educação. SBC, 2021. p. 371-380.
+Carvalho, W. R. B., Rodriguez, C. L., Rocha, R. V. (2022). Proposta de framework para o desenvolvimento de audiojogos educacionais por meio da Pedagogia de Projetos. In Anais Estendidos do XI Congresso Brasileiro de Informática na Educação, p. 186-191.
 
-CARVALHO, Walter et al. Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In: Anais dos Workshops do Congresso Brasileiro de Informática na Educação. 2019. p. 258-267.
+Carvalho, W. R. B., Rodriguez, C. L., Rocha, R. V. (2022). Aprendizagem Baseada em Projetos no Contexto do Desenvolvimento de Jogos: uma Revisão Sistemática de Literatura. Anais do XXXIII Simpósio Brasileiro de Informática na Educação, p. 267-277.
+
+Carvalho, W. R. B., Rodriguez, C. L., Rocha, R. V. (2021). Audiojogos educacionais: um Mapeamento Sistemático da Literatura. In Anais do XXXII Simpósio Brasileiro de Informática na Educação, p. 371-380.
+
+Carvalho, W. R. B., Rodriguez, C. L., Goya, D., Venero, M. F., Rocha, R. V. (2019). Software Livre Twine: ensino de programação Web por meio da criação de jogos educacionais. In Anais dos Workshops do Congresso Brasileiro de Informática na Educação. Vol. 8, No. 1, p. 258-267.
+
+_Artigos publicados em periódicos_
+
+Carvalho, W. R. B., dos Santos Barom, N. G., Netto, S. M. (2018). Análise de dados espaciais das deposições de resíduos sólidos da construção civil no município de Guarulhos, São Paulo. Periódico Eletrônico Fórum Ambiental da Alta Paulista, 14(2), p. 17-27.
 
 ### Idiomas
 
