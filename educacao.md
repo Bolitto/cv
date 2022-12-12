@@ -11,7 +11,7 @@ title: Walter Bolitto - CV
 ## Experiência Profissional
 
 `2022-`
-__Secretaria da Educação do Estado de São Paulo __
+__Secretaria da Educação do Estado de São Paulo__
 
 Professor PEB II, ministrando aulas de Química, Física e Itinerários Formativos.
 
