@@ -5,10 +5,20 @@ title: Walter Bolitto - CV
 # Walter Rubens Bolitto Carvalho
 
 <div id="webaddress">
-<a href="walter.carvalho@aluno.ufabc.edu.br">bolitto.walter@gmail.com</a>
+<a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a>
 </div>
 
 ## Experiência Profissional
+
+`2022-`
+__Secretaria da Educação do Estado de São Paulo __
+
+Professor PEB II, ministrando aulas de Química, Física e Itinerários Formativos.
+
+`2022-`
+__Colégio Vila Fátima__
+
+Professor PEB II, ministrando aulas de Química.
 
 `2017 - 2021`
 __Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.__
@@ -25,16 +35,18 @@ Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de cur
 `2020-`
 __Cursinho Comunitário A-Sol__
 
-Professor de Química (2020- )
+Coordenador Pedagógico (2022- )
 
-Professor de Matemática (2021)
+Professor de Química (2020- )
 
 Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
 
 ## Educação
 
-`2020-`
-__Licenciatura em Física, IFSP | Instituto Federal de São Paulo (Em andamento)__
+`2021-`
+__Mestrado em Ciência da Computação | Universidade Federal do ABC (Em andamento)__
+
+Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC). Projeto de pesquisa inserido em uma articulação entre jogos educacionais, tecnologias assistivas e teorias de currículo.
 
 `2019 - 2020`
 __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade Federal de São Carlos__
