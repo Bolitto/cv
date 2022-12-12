@@ -18,7 +18,7 @@ Professor PEB II, ministrando aulas de Química, Física e Itinerários Formativ
 `2022-`
 __Colégio Vila Fátima__
 
-Professor PEB II, ministrando aulas de Química.
+Professor PEB II, ministrando aulas de Química e Laboratório de Química.
 
 `2017 - 2021`
 __Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.__
