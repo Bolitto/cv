@@ -44,6 +44,9 @@ Projeto de pesquisa voltado à metodologias de design de jogos na educação, in
 Momentum. Jogo educacional para aprendizagem de conteúdos de mecânica clássica.
 
 `2020`
+A Voz do Operário. Desenvolvido durante a Workers Game Jam com a proposta de apresentar as lutas políticas que surgiram no movimento operário na década de 70.
+
+`2020`
 Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol.
 
 `2019`
