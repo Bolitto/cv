@@ -52,6 +52,9 @@ Ambiente Virtual de Aprendizagem no Cursinho Comunitário A-Sol.
 `2019`
 Pseudociência. Jogo sério na temática de critérios de demarcação (História e Filosofia da Ciência).
 
+`2019`
+Criação de games e narrativas interativas com o Twine. Mini-curso desenvolvido na UFABC para formação de professores em narrativas interativas.
+
 ## Experiência Profissional
 
 `2022-`
