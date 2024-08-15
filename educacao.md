@@ -5,7 +5,7 @@ title: Walter Bolitto - CV
 # Walter Rubens Bolitto Carvalho
 
 <div id="webaddress">
-E-mail. <a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc.edu.br</a> / Cel. (11)98751-5316
+E-mail. <a href="walter.carvalho@ufabc.edu.br">walter.carvalho@ufabc.edu.br</a> / Cel. (11)98751-5316
 </div>
 
 
@@ -14,12 +14,12 @@ E-mail. <a href="walter.carvalho@aluno.ufabc.edu.br">walter.carvalho@aluno.ufabc
 `2022-`
 __Secretaria da Educação do Estado de São Paulo__
 
-Professor PEB II, ministrando aulas de Química, Física e Itinerários Formativos.
+Professor PEB II, ministrando aulas de Química, Física, Informática e Itinerários Formativos.
 
 `2022-`
 __Colégio Vila Fátima__
 
-Professor PEB II, ministrando aulas de Química e Laboratório de Química.
+Professor PEB II, ministrando aulas de Química (2022-2023) e Física (2023- ).
 
 `2017 - 2021`
 __Assistente Administrativo, Proguaru | Progresso e Desenvolvimento de Guarulhos S. A.__
@@ -44,8 +44,8 @@ Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
 
 ## Educação
 
-`2021-`
-__Mestrado em Ciência da Computação | Universidade Federal do ABC (Em andamento)__
+`2021 - 2023`
+__Mestrado em Ciência da Computação | Universidade Federal do ABC__
 
 Pesquisador no Laboratório de Informática em Rede e Tecnologia Educacionais (LIRTE/UFABC) e do projeto Diversão Séria (UFABC). Projeto de pesquisa inserido em uma articulação entre jogos educacionais, tecnologias assistivas e teorias de currículo.
 
@@ -55,6 +55,9 @@ __Pós-graduação lato sensu em Educação e Tecnologia, UFSCar | Universidade 
 Habilitação em Produção e uso de Tecnologias para Educação.
 
 Trabalho de Conclusão de Curso: Ambiente Virtual em um Cursinho Popular.
+
+`2024`
+__Complementação Pedagógica em Computação, Claretiano__
 
 `2020 - 2021`
 __Complementação Pedagógica em Química, UNICSUL | Universidade Cruzeiro do Sul__
@@ -69,6 +72,9 @@ Desenvolvimento de pesquisa científica na área de mapeamento colaborativo.
 Apresentações de palestras e treinamentos de gestão de resíduos.
 
 ## Projetos
+
+`2024`
+EMPADARIA.  Framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos
 
 `2020`
 Momentum. Jogo educacional para aprendizagem de conceitos de mecânica clássica.
@@ -98,6 +104,8 @@ __Desenho de Cursos: Introdução ao Modelo ADDIE__. Escola Nacional de Administ
 Português nativo
 
 Inglês fluente
+
+Francês Básico
 
 <!-- ### Footer
 
