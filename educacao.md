@@ -31,17 +31,6 @@ __Estagiário de Engenharia Química, Centro Paula Souza__
 
 Acompanhamento das aulas, auxílio aos alunos nos trabalhos de conclusão de curso, manutenção do laboratório de química (elaboração do inventário de reagentes visando preparação para auditoria periódica do CRQ, orçamentos e cotações de reagentes e equipamentos).
 
-## Voluntariado
-
-`2020-`
-__Cursinho Comunitário A-Sol__
-
-Coordenador Pedagógico (2022- )
-
-Professor de Química (2020- )
-
-Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
-
 ## Educação
 
 `2021 - 2023`
@@ -70,6 +59,17 @@ Atuação no Núcleo de Sustentabilidade em Resíduos, nos seguintes projetos:
 Desenvolvimento de pesquisa científica na área de mapeamento colaborativo.
 
 Apresentações de palestras e treinamentos de gestão de resíduos.
+
+## Voluntariado
+
+`2020-`
+__Cursinho Comunitário A-Sol__
+
+Coordenador Pedagógico (2022- )
+
+Professor de Química (2020- )
+
+Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
 
 ## Projetos
 
