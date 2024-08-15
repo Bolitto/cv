@@ -73,7 +73,7 @@ Gerenciamento do Ambiente Virtual de Aprendizagem (AVA) (2020-2021)
 
 ## Projetos
 
-`2024`
+`2023`
 EMPADARIA.  Framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos
 
 `2020`
