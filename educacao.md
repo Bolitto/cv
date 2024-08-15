@@ -17,7 +17,7 @@ __Secretaria da Educação do Estado de São Paulo__
 Professor PEB II, ministrando aulas de Química, Física, Informática e Itinerários Formativos.
 
 `2022-`
-__Colégio Vila Fátima__
+__Colégio Vila X__
 
 Professor PEB II, ministrando aulas de Química (2022-2023) e Física (2023- ).
 
