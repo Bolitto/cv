@@ -105,7 +105,7 @@ Português nativo
 
 Inglês fluente
 
-Francês Básico
+Francês básico
 
 <!-- ### Footer
 
